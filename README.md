@@ -36,6 +36,8 @@ O objetivo deste desafio é utilizar modelos de Redes Neurais Convolucionais (CN
 
 - **Desempenho**: o modelo apresentou um bom desempenho na classificação de comandos de fala com acurácia e outras métricas de avaliação satisfatórias.
 
+<hr>
+
 ### Atividade 2: Custom Speech Commands
 
 #### Preparação dos dados
